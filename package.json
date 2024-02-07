@@ -1,0 +1,29 @@
+{
+  "name": "clockwork-generate",
+  "version": "0.1.0",
+  "description": "A project to get Oxford 3000 word list and create translations to be used in Clockwork bot.",
+  "main": "src/main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yakovenkomax/clockwork-generate.git"
+  },
+  "author": "Maksim Iakovenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yakovenkomax/clockwork-generate/issues"
+  },
+  "homepage": "https://github.com/yakovenkomax/clockwork-generate#readme",
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.6",
+    "@types/node": "^20.11.16"
+  }
+}
