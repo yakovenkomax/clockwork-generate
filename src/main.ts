@@ -38,11 +38,12 @@ const saveToTranslationsBatch = (word: string, translation: Translation) => {
   console.log(`${progressCount} / ${words.length}: ${word} - ${translation.main}`);
 
   if (progressCount % 10 === 0) {
-    console.log('Saved current batch to file.');
+    translations = readJson(TRANSLATIONS_FILE_PATH);
     writeJson(TRANSLATIONS_FILE_PATH, {
       ...translations,
       ...translationsBatch,
     });
+    console.log('Saved current batch to file.');
 
     translationsBatch = {};
   }
