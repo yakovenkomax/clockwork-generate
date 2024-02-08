@@ -12,7 +12,11 @@ export const downloadWords = async (): Promise<string[]> => {
     const wordsFile = await fetch('https://raw.githubusercontent.com/oprogramador/most-common-words-by-language/master/src/resources/dutch.txt');
     const words = (await wordsFile.text()).split('\n');
 
-    writeJson(WORDS_FILE_PATH, words.slice(0, 3000));
+    const cleanWords = words.filter(word => {
+      return word.length > 1 || word === 'u';
+    });
+
+    writeJson(WORDS_FILE_PATH, cleanWords.slice(0, 3000));
 
     return words;
   }
