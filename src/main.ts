@@ -65,7 +65,7 @@ words.forEach(async (word, index) => {
   let translation = restructureTranslation(translationData);
 
   // Remove duplicates, typos, whitespaces, etc.
-  translation = cleanTranslation(translation);
+  translation = cleanTranslation(word, translation);
 
   // Crop the amount of translations
   translation = limitTranslation(translation);
