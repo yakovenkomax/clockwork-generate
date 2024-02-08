@@ -1,6 +1,7 @@
 import { Translation } from 'types/files.type';
 import { removeWord } from 'cleanTranslation/removeWord';
 import { removeUppercase } from 'cleanTranslation/removeUppercase';
+import { trimWhitespace } from 'cleanTranslation/trimWhitespace';
 
 export const cleanTranslation = (word: string, translation: Translation) => {
   // Remove the main translation from all frequencies to avoid duplication
@@ -10,7 +11,8 @@ export const cleanTranslation = (word: string, translation: Translation) => {
   cleanedTranslation = removeWord(cleanedTranslation, translation.main.replace('to ', ''));
 
   cleanedTranslation = removeUppercase(word, cleanedTranslation);
-  // TODO: trim whitespace
+
+  cleanedTranslation = trimWhitespace(cleanedTranslation);
 
   return cleanedTranslation;
 };
