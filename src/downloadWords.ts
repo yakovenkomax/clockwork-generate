@@ -1,8 +1,9 @@
-import { WORDS_FILE_PATH } from 'config';
 import { readJson } from 'utils/readJson';
 import { writeJson } from 'utils/writeJson';
 
-export const download = async (): Promise<string[]> => {
+const WORDS_FILE_PATH = 'data/words.json';
+
+export const downloadWords = async (): Promise<string[]> => {
   try {
     const words = readJson(WORDS_FILE_PATH);
 
@@ -15,4 +16,4 @@ export const download = async (): Promise<string[]> => {
 
     return words;
   }
-}
+};
