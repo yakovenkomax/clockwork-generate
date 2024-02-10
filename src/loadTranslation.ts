@@ -5,7 +5,9 @@ export const loadTranslation = async (word: string) => {
     const res = await fetch(`http://0.0.0.0:8999/api?text=${word}&from=nl&to=en`);
     const data: TranslationResponse = await res.json();
 
-    if ('statusCode' in data) {
+    if ('error' in data) {
+      console.error(`Unsuccessful request for the word "${word}" translation.`);
+
       return;
     }
 
@@ -15,4 +17,4 @@ export const loadTranslation = async (word: string) => {
 
     return;
   }
-}
+};

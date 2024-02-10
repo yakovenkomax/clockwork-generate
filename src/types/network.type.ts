@@ -1,6 +1,11 @@
 import { Frequency, PartOfSpeech } from 'types/enums.type';
 
-export type TranslationResponse = TranslationError | TranslationData;
+export type TranslationResponse = LimitError | TranslationError | TranslationData;
+
+type LimitError = {
+  error: number;
+  message: string;
+}
 
 type TranslationError = {
   statusCode: 500;
