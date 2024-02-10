@@ -49,13 +49,13 @@ const saveToTranslationsBatch = (word: string, translation: Translation) => {
   }
 };
 
-words.forEach(async (word, index) => {
+words.forEach(async (word) => {
   if (word in translations) {
     return;
   }
 
   // Wait before making a request to avoid rate limits
-  await new Promise((resolve) => setTimeout(resolve, index * 3000));
+  await new Promise((resolve) => setTimeout(resolve, 5000));
 
   const translationData = await loadTranslation(word);
 
