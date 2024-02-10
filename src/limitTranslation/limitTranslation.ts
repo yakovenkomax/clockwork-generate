@@ -20,7 +20,7 @@ export const limitTranslation = (translation: Translation) => {
 
   const partsOfSpeech = Object.keys(partsOfSpeechTranslations) as PartOfSpeech[];
   const partsOfSpeechLimitedTranslations = partsOfSpeech.reduce((acc, partOfSpeech) => {
-    let translationsByFrequency: TranslationsByFrequency | undefined = { ...partsOfSpeechTranslations[partOfSpeech] };
+    let translationsByFrequency = partsOfSpeechTranslations[partOfSpeech];
 
     if (!translationsByFrequency) {
       return acc;
@@ -46,7 +46,9 @@ export const limitTranslation = (translation: Translation) => {
   }, {} as TranslationsByPartOfSpeech);
 
   if (!Object.keys(partsOfSpeechLimitedTranslations).length) {
-    return translation;
+    return {
+      main: translation.main,
+    };
   }
 
   return {
