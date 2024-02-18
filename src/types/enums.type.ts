@@ -14,7 +14,8 @@ export enum PartOfSpeech {
   ADVERB = 'adverb',
   CONJUNCTION = 'conjunction',
   PRONOUN = 'pronoun',
-  AUXILIARY_VERB = 'auxiliary verb'
+  AUXILIARY_VERB = 'auxiliary verb',
+  INTERJECTION = 'interjection'
 }
 
 export const FrequencyWeight = {
