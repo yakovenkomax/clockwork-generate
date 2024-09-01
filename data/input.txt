@@ -1,0 +1,2947 @@
+de art the
+en conj and
+in prep in
+van prep of
+op prep on
+zijn verb to be
+het, 't 1) art 2) pron 1) the 2) it
+een art a
+voor prep a) for b) in front of
+die pron a) that, those b) that, who
+met prep with
+te prep to
+hebben verb to have
+niet adv not
+aan prep to
+ook adv also
+er adv there
+als conj when
+veel num much
+kunnen verb to be able
+dat conj that
+om prep (a)round
+worden verb to be
+dat pron that
+nog adv still
+maar conj but
+bij prep near (to)
+zij, ze pron a) she b) they
+naar prep to
+uit prep from
+gaan verb to go
+komen verb to come
+zullen verb will
+of conj or
+over prep a) over b) about
+moeten verb to have to, must
+door prep through
+al adv already
+geen pron no
+dan adv then
+goed adj good
+wel adv ≈ rather
+maken verb a) to make b) to repair
+tot prep to
+hij pron he
+wat pron what
+zo adv so
+nu adv now
+zijn, z'n pron his
+jaar noun, het year
+ander adj other
+doen verb to do
+dit pron this
+willen verb to want
+zich pron herself, himself, itself, themselves
+staan verb to stand
+zien verb to see
+zeggen verb to say
+krijgen verb to get
+wij, we pron we
+groot adj a) big b) great
+na prep after
+hun pron a) their b) (to) them
+ik pron I
+deze pron this, these
+daar adv there
+jij, je pron you
+vinden verb to find
+laten verb to let
+al pron all
+tegen prep against, towards
+twee num two
+een, één num one
+heel adj whole
+geven verb to give
+blijven verb to remain
+waar adv where
+toch adv yet
+ons pron a) us b) our
+onder prep under
+weten verb to know
+zitten verb to sit
+dan conj than
+maar adv but, only, just
+mens noun, de(m) human
+omdat conj because
+alleen adv alone
+nemen verb to take
+houden verb to hold
+nieuw adj new
+mogen verb to be allowed
+weer adv again
+tijd noun, de(m) time
+lang adj long, tall
+af adv off
+liggen verb to lie
+dus adv so
+haar pron her
+drie num three
+tussen prep between
+mij, me pron me
+eens adv once, (not)even
+volgen verb to follow
+dag noun, de(m) day
+zelf pron self
+mijn, m'n pron my
+zoals conj as
+hem, 'm pron him
+mee adv with
+iets pron something
+hoe adv how
+denken verb to think
+zonder prep without
+want conj because
+hier adv here
+altijd adv always
+te adv too
+plaats noun, de place
+enkel pron a few, a single
+beginnen verb to start
+man noun, de(m) man
+week noun, de week
+toe adv towards
+echt adj real
+keer noun, de(m) time, occasion
+wie pron who
+werken verb to work
+volgens prep according to
+eigen adj own
+vooral adv especially
+zelfs adv even
+stellen verb to put
+brengen verb to bring
+zeker adj certain
+elk pron each
+net adv just
+lopen verb to walk
+klein adj little
+nooit adv never
+vragen verb to ask
+vallen verb to fall
+alles pron everything
+terug adv back
+horen verb to hear
+spelen verb to play
+uur noun, het hour
+oud adj old
+hoog adj high
+even adv just
+tijdens prep during
+steeds adv always
+toen conj when
+vorig adj previous
+binnen prep within
+gewoon adj usual, normal
+niets pron nothing
+snel adj fast
+kijken verb to look
+maand noun, de month
+jong adj young
+halen verb to get
+lijken verb to seem
+zetten verb to put
+blijken verb to prove
+toen adv then
+weinig num little,few
+eerst adv first
+elkaar pron each other
+mogelijk adj possible
+samen adv together
+kind noun, het child
+werk noun, het work
+land noun, het country
+vrouw noun, de(f) woman
+hand noun, de hand
+leven noun, het life
+zo'n pron such a
+eind, einde noun, het end
+bestaan verb to exist
+rond prep around
+vaak adv often
+trekken verb to draw
+aantal noun, het number
+achter prep behind
+natuurlijk adj natural
+naam noun, de(m) name
+laatst adj last
+deel noun, het part
+belangrijk adj important
+misschien adv maybe
+gebeuren verb to happen
+iedereen pron everyone
+bijna adv almost
+probleem noun, het problem
+vier num four
+sinds prep since
+erg adv very
+per prep by, per
+geleden adj ago
+nodig adj necessary
+noemen verb to name
+vraag noun, de question
+proberen verb to try
+zaak noun, de a) case b) business
+spreken verb to speak
+allemaal adv all
+pas adv only
+helemaal adv completely
+men pron one, you
+kennen verb to know
+bekend adj (well-)known
+terwijl conj while
+huis noun, het house
+geval noun, het case
+duidelijk adj clear
+gebruiken verb to use
+vertellen verb to tell
+kort adj short
+vroeg adj early
+vanaf prep from
+weg adv gone
+eigenlijk adv actually
+via prep through
+iemand pron someone
+eerder adv sooner
+mooi adj nice
+schrijven verb to write
+vijf num five
+gisteren adv yesterday
+sterk adj strong
+paar noun, het couple
+u pron you
+hen pron them
+vandaag adv today
+waarom adv why
+moment noun, het time, moment
+manier noun, de way
+moeilijk adj difficult
+wereld noun, de world
+opnieuw adv again
+daarom adv therefore
+geld noun, het money
+zeer adv very
+soms adv sometimes
+groep noun, de group
+stad noun, de town, city
+enig pron only
+ver adj far
+genoeg adv enough
+hal noun, de hall
+zwaar adj heavy
+zoeken verb to search
+kans noun, de chance
+ja interj yes
+leggen verb to put
+waarin adv wherein
+tien num ten
+voelen verb to feel
+winnen verb to win
+begin noun, het start
+vast adj fixed, certain
+naast prep next to
+bijvoorbeeld, bv. adv for example
+slecht adj bad
+verliezen verb to lose
+buiten prep outside
+zorgen verb to provide
+Nederlands adj Dutch
+oog noun, het eye
+beetje noun, het bit
+zoveel num so much
+zes num six
+meteen adv immediately
+bovendien adv also
+woord noun, het word
+graag adv gladly, with pleasure
+beide num both
+kiezen verb to choose
+hopen verb to hope
+laat adj late
+vol adj full
+daarna adv afterwards
+lezen verb to read
+verschillend adj different
+betalen verb to pay
+miljoen num million
+partij noun, de(f) party
+soort noun, de/het kind of
+ooit adv one day
+ding noun, het thing
+weg noun, de(m) road
+sommige pron some
+ieder pron each
+leiden verb to lead
+slechts adv only
+niemand pron nobody
+wachten verb to wait
+welk pron which
+sluiten verb to close
+boven prep above
+verwachten verb to expect
+nee interj no
+foto noun, de photo
+wonen verb to live
+helpen verb to help
+punt noun, de(m) a) full stop b) item c) point
+raken verb to touch, to hit
+leren verb to learn
+dezelfde pron same
+hard adj hard
+feit noun, het fact
+leven verb to live
+titel noun, de(m) title
+reden noun, de reason
+slaan verb to hit
+afgelopen adj last
+volledig adj full
+inderdaad adv indeed
+thuis adv at home
+half adj half
+open adj open
+vriend noun, de(m) friend
+langs prep past
+hoofd noun, het head
+uiteindelijk adj final
+bedrijf noun, het business
+kant noun, de(m) side
+voorbij adj past
+rijden verb to drive
+gemakkelijk, makkelijk adj easy
+zodat conj so that
+vrij adj free
+politie noun, de(f) police
+verhaal noun, het story
+artikel noun, het a) article b) product, object
+boek noun, het book
+onderzoek noun, het research
+kopen verb to buy
+zowel adv both
+betekenen verb to mean
+bezig adj busy
+gevolg noun, het result
+school noun, de school
+hangen verb to hang
+plan noun, het plan
+wanneer conj when
+daarmee adv with it
+extra adj additional
+pakken verb to take
+nadat conj after
+ruim adj spacious
+voeren verb to have, to carry out
+ongeveer adv about
+idee noun, de(f)/het idea
+zin noun, de(m) a) sentence b) sense
+zondag noun, de(m) Sunday
+geloven verb to believe
+zaterdag noun, de(m) Saturday
+hoeven verb to need (to)
+staat noun, de(m) state
+veranderen verb to change
+leuk adj nice
+bieden verb to offer
+auto noun, de(m) car
+rest noun, de rest
+vader noun, de(m) father
+familie noun, de(f) family
+precies adj exact
+steken verb a) to stab b) to put
+trouwens adv anyway
+begrijpen verb to understand
+moeder noun, de(f) mother
+stoppen verb to stop
+lid noun, het member
+leveren verb to supply
+laag adj low
+tonen verb to show
+waarbij adv in which
+praten verb to talk
+vorm noun, de(m) form
+zichzelf pron herself, himself, itself, yourself, themselves
+hetzelfde pron the same
+juist adv really, on the contrary
+meter noun, de(m) metre
+rol noun, de role
+prijs noun, de(m) price
+tellen verb to count
+reageren verb to react
+waarvan adv whose
+jongen noun, de(m) boy
+waarop adv on which
+dienst noun, de(m) service
+ervan adv of it
+draaien verb to turn
+roepen verb to call
+daarvoor adv therefore, for that
+gelukkig adj happy
+sturen verb to send
+dragen verb to carry
+verkopen verb to sell
+resultaat noun, het result
+minuut noun, de minute
+niks pron nothing
+verdwijnen verb to disappear
+daarbij adv with it,besides
+totaal adj total
+meestal adv mostly
+succes noun, het success
+besluiten verb to decide
+kosten verb to cost
+straat noun, de street
+ouder noun, de(m) parent
+organiseren verb to organize
+bijzonder adj special
+acht num eight
+duren verb to last
+water noun, het water
+wijzen verb to point
+terecht adj correct, deserved
+vormen verb to form
+persoon noun, de(m) person
+waarschijnlijk adv probably
+zeven num seven
+waardoor adv as a result of which
+klinken verb to sound
+periode noun, de(f) period
+merken verb to notice
+helft noun, de half
+recht noun, het right
+opzetten verb to set up
+gebruik noun, het use
+gevoel noun, het feeling
+beeld noun, het statue
+grand noun, de(m) ground
+normaal adj normal
+bouwen verb to build
+zoon noun, de(m) son
+deur noun, de door
+rood adj red
+ontstaan verb to start
+meisje noun, het girl
+enorm adj enormous
+nacht noun, de(m) night
+hoewel conj although
+uw pron your
+gelijk adj equal
+vergeten verb to forget
+bereiken verb to reach
+algemeen adj general
+passen verb to suit
+richten (zich) verb to focus
+verschil noun, het difference
+programma noun, het programme, program
+lachen verb to laugh
+groeien verb to grow
+verdienen verb to earn
+verschijnen verb to appear
+krant noun, de newspaper
+eten verb to eat
+nummer noun, het number
+belang noun, het importance
+jullie pron you
+situatie noun, de(f) situation
+kilometer noun, de(m) kilometre
+toekomst noun, de(f) future
+zwart adj black
+verklaren verb to explain
+honderd num hundred
+bepaald adj certain
+aandacht noun, de attention
+waarmee adv with which
+daardoor adv therefore
+speciaal adj special
+beslissen verb to decide
+bepalen verb to determine
+dochter noun, de(f) daughter
+plaatsen verb to place
+stem noun, de a) voice b) vote
+Frans adj French
+dienen verb to serve (as)
+gebied noun, het area
+richting noun, de(f) direction
+vertrekken verb to leave
+openen verb to open
+voorkomen verb a) to occur b) to prevent
+dood noun, de death
+missen verb to miss, to lack
+morgen adv tomorrow
+antwoord noun, het answer
+heten verb to be called
+persoonlijk adj personal
+voorbeeld noun, het example
+weekend noun, het weekend
+slagen verb to succeed
+doel noun, het goal
+gelden verb to apply
+stappen verb to step
+licht noun, het light
+klaar adj ready
+muziek noun, de(f) music
+ondanks prep in spite of
+liever adv rather
+twintig num twenty
+buurt noun, de neighbourhood
+slachtoffer noun, het victim
+reactie noun, de(f) reaction
+bekijken verb to look at
+contact noun, het contact
+televisie noun, de(f) television
+tegenover prep opposite, against
+kaart noun, de map
+voorlopig adj provisional
+avond noun, de(m) evening
+voet noun, de(m) foot
+rekening noun, de(f) bill
+breken verb to break
+eeuw noun, de century
+betreffen verb to concern
+kop noun, de(m) a) head b) cup
+dicht adj closed
+direct adj immediate
+druk adj busy
+melden verb to report
+daarvan adv thereof, from that
+inmiddels adv meanwhile
+lukken verb to succeed
+film noun, de(m) film
+mogelijkheid noun, de(f) possibility
+markt noun, de market
+publiek noun, het public
+informatie, info noun, de(f) information
+geraken verb to get
+alsof conj as if
+overigens adv anyway
+Duits adj German
+keuze noun, de choice
+rekenen verb to count
+oh interj oh
+blij adj happy
+nauwelijks adv hardly
+opnemen verb to record
+lijst noun, de list
+wit adj white
+officieel adj official
+diep adj deep
+hoogte noun, de(f) height
+gezicht noun, het face
+stijgen verb to rise
+gesprek noun, het conversation
+rust noun, de rest
+kloppen verb to knock, to beat
+stap noun, de(m) step
+blijkbaar adv apparently
+verlaten verb to leave
+ervaring noun, de(f) experience
+dood adj dead
+geschiedenis noun, de(f) history
+namelijk adv namely
+duur adj expensive
+ergens adv somewhere
+bewijzen verb to prove
+vervolgens adv then
+plek noun, de place, spot
+centrum noun, het centre
+geboren adj bom
+groen adj green
+oorlog noun, de(m) war
+politiek noun, de(f) politics
+ondertussen adv meanwhile
+ruimte noun, de(f) space
+durven verb to dare
+nieuws noun, het news
+band noun, de(m) bond
+overlijden verb to die
+directeur noun, de(m) director
+schieten verb to shoot
+zomer noun, de(m) summer
+kracht noun, de strength
+wellicht adv possibly, perhaps
+genieten verb to enjoy
+bedoeling noun, de(f) intention
+voorstellen verb to propose
+erop adv on it
+leeftijd noun, de(m) age
+ontvangen verb to receive
+rug noun, de(m) back
+behalve conj except
+bank noun, de a) bank b) bench, sofa
+absoluut adj absolute
+nogal adv rather
+lekker adj tasty
+negen num nine
+hart noun, het heart
+bellen verb to ring, to call
+waar adj true
+vreemd adj strange, foreign
+waarde noun, de(f) value
+ziekenhuis noun, het hospital
+betrekken verb to involve
+oplossing noun, de(f) solution
+verkeerd adj wrong
+slag noun, de(m) blow
+bericht noun, het message
+dergelijk adj such
+duizend num thousand
+collega noun, de(m) colleague
+vrezen verb to fear
+overtuigen verb to convince
+moeite noun, de(f) difficulty
+baan noun, de job
+last noun, de(m) load
+rustig adj quiet
+tekst noun, de(m) text
+bezoek noun, het visit
+hoop noun, de a) hope b) pile
+kamer noun, de room
+treffen verb to hit, to strike
+uiteraard adv of course, naturally
+orde noun, de order
+lijn noun, de line
+aanwezig adj present
+gang noun, de(m) corridor
+voorzien verb to provide
+overal adv everywhere
+keren verb to turn
+tafel noun, de table
+middel noun, het means
+gezin noun, het family
+licht adj light
+dik adj thick
+dagelijks adj daily
+mening noun, de(f) opinion
+eindelijk adv finally
+grens noun, de border
+menen verb to believe, to think
+beslissing noun, de(f) decision
+telkens adv each time
+ontdekken verb to discover
+gooien verb to throw
+zoiets pron something
+wet noun, de law
+drinken verb to drink
+gebouw noun, het building
+luisteren verb to listen
+opdracht noun, de task
+twaalf num twelve
+stil adj silent
+verleden noun, het past
+hoeveel num how many, how much
+voldoende adj sufficient
+dreigen verb to threaten
+spel noun, het game
+eenmaal adv a) just b) once
+wijze noun, de way
+zorg noun, de a) care b) worry
+los adj loose
+tevreden adj satisfied
+brief noun, de(m) letter
+sterven verb to die
+been noun, het leg
+omgeving noun, de(f) environment, surroundings
+broer noun, de(m) brother
+daarin adv therein
+onmiddellijk adj immediate
+indruk noun, de(m) impression
+onderzoeken verb to investigate
+beschouwen verb to consider
+straks adv later
+taal noun, de language
+winkel noun, de(m) shop
+ervoor adv for it
+breed adj wide
+regel noun, de(m) rule
+lucht noun, de air
+hulp noun, de help
+daarop adv on it
+warm adj hot
+tegenwoordig adv nowadays
+tekenen verb to draw
+volk noun, het people
+voordeel noun, het advantage
+lief adj nice
+serieus adj serious
+ernstig adj serious
+arm noun, de(m) arm
+vanwege prep because of
+regelmatig adj regular
+vriendin noun, de(f) a) (female) friend b) girlfriend
+bed noun, het bed
+top noun, de(m) top
+kennis noun, de(f) a) knowledge b) acquaintance
+flink adj significant
+stand noun, de(m) a) position b) score
+mama noun, de(f) mummy
+eindigen verb to end
+relatie noun, de(f) relation
+bang adj afraid, frightened
+slapen verb to sleep
+macht noun, de power
+kerk noun, de church
+beroep noun, het profession
+lichaam noun, het body
+rijk adj rich
+ontwikkelen verb to develop
+regelen verb to regulate, to arrange
+kwijt adj lost
+beseffen verb to realize
+allerlei pron all kinds of
+dorp noun, het village
+gedachte noun, de(f) thought
+invloed noun, de(m) influence
+delen verb to share
+vliegen verb to fly
+jammer adj a pity
+Nederlands noun, het Dutch
+herinneren verb to remember
+beloven verb to promise
+afstand noun, de(m) distance
+prachtig adj wonderful
+bezoeken verb to visit
+eerlijk adj honest, fair
+voorstel noun, het proposal
+veilig adj safe
+Engels adj English
+vlak adv right
+bewust adj conscious, aware
+optreden verb to appear
+feest noun, het party
+geel adj yellow
+kwestie noun, de(f) question, issue
+perfect adj perfect
+links adj a) left b) left-wing
+god noun, de(m) god
+springen verb to jump
+dier noun, het animal
+hoek noun, de(m) corner
+enig adj only
+bal noun, de(m) ball
+eenvoudig adj simple
+vergelijken verb to compare
+verplichten verb to oblige
+mond noun, de(m) mouth
+vullen verb to fill
+tiental noun, het ten
+redden verb to save
+studie noun, de(f) study
+afsluiten verb to close
+gat noun, het hole
+kleur noun, de colour
+goedkoop adj cheap
+liefde noun, de(f) love
+modern adj modern
+positie noun, de(f) position
+gast noun, de(m) guest
+grijpen verb to grab
+aanleiding noun, de(f) reason, occasion
+terrein noun, het ground
+interessant adj interesting
+rij noun, de row
+universiteit noun, de(f) university
+zulk pron such
+les noun, de lesson
+degelijk adj sound
+erin adv in it
+zingen verb to sing
+aanbieden verb to offer
+onderwerp noun, het topic
+vanavond adv tonight
+gevaarlijk adj dangerous
+danken verb to thank, to owe
+trouwen verb to marry
+erbij adv there
+afspraak noun, de appointment
+wensen verb to wish
+kwaad adj a) angry b) evil
+verlopen verb to go
+mijzelf, mezelf pron myself
+muur noun, de(m) wall
+stemmen verb to vote
+boodschap 1) noun, de(f) 2) noun, pl 1) message 2) purchase, shopping
+gek adj crazy
+zak noun, de(m) bag
+dak noun, het roof
+zee noun, de sea
+vakantie noun, de(f) holiday
+alweer adv again
+ziek adj ill
+verhuizen verb to move (house)
+schuiven verb to push, to pull
+bureau noun, het desk
+stevig adj firm
+zomaar adv just
+bedenken verb to think (up)
+doordat conj because
+controleren verb to check
+helaas adv unfortunately
+boom noun, de(m) tree
+drukken verb to print
+dubbel adj double
+vieren verb to celebrate
+beweging noun, de(f) movement
+tegelijk adv at the same time
+verbinden verb a) to link b) to bandage
+schuld noun, de a) debt b) blame
+bus noun, de bus
+leeg adj empty
+sfeer noun, de atmosphere
+taak noun, de task
+pijn noun, de pain
+verband noun, het a) link b) bandage
+geluk noun, het happiness, luck
+voordat conj before
+onmogelijk adj impossible
+zon noun, de sun
+nergens adv nowhere
+fijn adj nice
+slot noun, het lock
+gezond adj healthy
+verdelen verb to divide
+leerling noun, de(m) pupil
+tenminste adv at least
+midden noun, het middle
+behandelen verb to treat
+rechts adj a) right b) right-wing
+loop noun, de(m) course
+fout adj wrong
+redelijk adj reasonable
+studeren verb to study
+donker adj dark
+lied noun, het song
+zacht adj soft
+behoorlijk adj decent, considerable
+reis noun, de trip, journey
+beurt noun, de turn
+simpel adj simple
+beneden prep under, down
+vinger noun, de(m) finger
+blauw adj blue
+werkelijk adj real
+opstellen verb to draw up
+student noun, de(m) student
+waard adj worth
+raar adj strange
+apart adj separate
+oor noun, het ear
+pak 1) noun, het 2) noun, de(m) 1) suit 2) bunch
+begrip noun, het understanding
+lastig adj difficult
+wakker adj awake
+tuin noun, de(m) garden
+verzamelen verb to collect
+eraan adv with it
+angst noun, de(m) fear
+realiseren verb to realize
+gelegenheid noun, de(f) opportunity
+neus noun, de(m) nose
+schoon adj clean
+antwoorden verb to answer
+ineens adv suddenly
+lijden verb to suffer
+langzaam adj slow
+beschrijven verb to describe
+herkennen verb to recognize
+besteden verb to spend
+fiets noun, de bicycle
+koud adj cold
+hond noun, de(m) dog
+dame noun, de(f) lady
+meemaken verb to experience
+uitkomen verb to come out
+aardig adj nice
+mis adv wrong
+ermee adv with it
+verandering noun, de(f) change
+waarvoor adv what for
+radio noun, de(m) radio
+zover adv so far
+daarover adv about it
+opzicht noun, het regard
+plezier noun, het pleasure
+aankomen verb to arrive
+toestand noun, de(m) state
+station noun, het station
+bloed noun, het blood
+toevallig adj accidental
+heer noun, de(m) gentleman
+uitnodigen verb to invite
+teken noun, het sign
+baas noun, de(m) boss
+maat 1) noun, de 2) noun, de 3) noun, de(m) 1) size 2) rhythm 3) mate
+bewegen verb to move
+oplossen verb to solve
+haar noun, de/het hair
+vandaar adv hence
+dokter noun, de(m) doctor, GP
+ontmoeten verb to meet
+stof noun, het dust
+achteraf adv afterwards
+vooruit adv forward
+geluid noun, het sound
+blad noun, het a) journal, magazine b) leaf
+boos adj angry
+bos 1) noun, het 2) noun, de(m) 1) forest 2) bunch
+knap adj a) good-looking b) smart, clever, able
+zus noun, de(f) sister
+trein noun, de(m) train
+prima adj excellent
+doorgaan verb to continue
+type noun, het type
+nadenken verb to think
+natuur noun, de(f) nature
+aannemen verb to assume
+geweldig adj great
+recht adj straight
+eruit adv out
+gezellig adj enjoyable, cosy
+bloem noun, de flower
+herhalen verb to repeat
+twijfelen verb to doubt
+droog adj dry
+inhoud noun, de(m) content
+ochtend noun, de(m) morning
+verjaardag noun, de(m) birthday
+plaat noun, de a) record b) plate
+kost, kosten noun, de(m) cost(s)
+behoefte noun, de(f) need
+allebei num both
+bewaren verb to keep
+uitleggen verb to explain
+rand noun, de(m) edge
+achtergrond noun, de(m) background
+min adv minus
+opmerking noun, de(f) remark
+figuur noun, de/het figure
+opvallen verb to strike, to catch the eye
+ruzie noun, de(f) quarrel, row
+winter noun, de(m) winter
+overkomen verb to happen to
+heerlijk adj lovely
+bespreken verb to discuss
+tegelijkertijd adv at the same time
+uitgaan verb to go out
+slim adj smart, clever
+minder num less
+verder adj further
+anders adv otherwise
+echter adv however
+meest num most
+best adj best
+vanuit prep from
+immers adv indeed
+vrijdag noun, de(m) Friday
+organisatie noun, de(f) organization
+overheid noun, de(f) government
+maandag noun, de(m) Monday
+positief adj positive
+behoren verb to belong
+intussen adv meanwhile
+raad noun, de(m) advice
+uitvoeren verb to perform
+niveau noun, het level
+woensdag noun, de(m) Wednesday
+gratis adj free
+bedoelen verb to intend
+liefst adv preferably
+beperken verb to limit
+treden verb to step
+jou pron you
+donderdag noun, de(m) Thursday
+bevestigen verb to confirm
+weigeren verb to refuse
+dertig num thirty
+discussie noun, de(f) discussion
+dinsdag noun, de(m) Tuesday
+uitspraak noun, de statement
+druk noun, de(m) pressure
+veroorzaken verb to cause
+klant noun, de(m) customer
+systeem noun, het system
+ontwikkeling noun, de(f) development
+bevinden (zich) verb to find
+kritiek noun, de(f) criticism
+Nederlander noun, de(m) Dutchman
+cultuur noun, de(f) culture
+poging noun, de(f) attempt
+verantwoordelijk adj responsible
+minstens adv at least
+beweren verb to claim
+fout noun, de error
+dwingen verb to force
+leiding noun, de(f) leadership
+veld noun, het field
+steunen verb to support
+dalen verb to go down
+binnenkort adv shortly
+vijftien num fifteen
+initiatief noun, het initiative
+gevaar noun, het danger
+eventueel adj potential
+internet noun, het internet
+gebrek noun, het lack
+kwaliteit noun, de(f) quality
+onderwijs noun, het education
+vertrouwen noun, het trust
+plots adj sudden
+product noun, het product
+beleid noun, het policy
+plegen verb to commit
+functie noun, de(f) function
+eveneens adv also
+vijftig num fifty
+ontbreken verb to lack
+jeugd noun, de youth
+buitenland noun, het foreign country, abroad
+termijn noun, de(m) term
+geweld noun, het violence
+elf num eleven
+zaal noun, de hall
+verdedigen verb to defend
+negatief adj negative
+vestigen verb to set
+onderdeel noun, het part
+aanpassen verb to adjust
+zwak adj weak
+onbekend adj unknown
+omstandigheid noun, de(f) circumstance
+Belg noun, de(m) Belgian
+koning noun, de(m) king
+beschermen verb to protect
+besluit noun, het decision
+reeds adv already
+bevatten verb to contain
+praktijk noun, de practice
+totaal noun, het total
+herstellen verb to recover
+compleet adj complete
+maatschappij noun, de(f) society
+proces noun, het trial
+verklaring noun, de(f) statement
+brand noun, de(m) fire
+vrijwel adv almost
+moord noun, de murder
+verbeteren verb to improve
+toenemen verb to increase
+maal 1) noun, de/het 2) noun, het 1) time 2) meal
+oorzaak noun, de cause
+effect noun, het a) effect b) share
+principe noun, het principle
+klagen verb to complain
+schrijver noun, de(m) writer
+zogenaamd adj so-called
+geheel noun, het whole
+tijdelijk adj temporary
+scherp adj sharp
+respect noun, het esteem
+zowat adv about
+streng adj severe
+voorwaarde noun, de(f) condition
+kunst noun, de(f) art
+inzetten verb to bring into action
+aanvankelijk adj initial
+leger noun, het army
+bewijs noun, het proof
+zakken verb a) to drop b) to fail
+bereid adj prepared, ready
+twijfel noun, de(m) doubt
+vrijheid noun, de(f) freedom
+combinatie noun, de(f) combination
+geheel adj whole
+vaststellen verb to determine
+meerder num more
+klassiek adj classic
+verspreiden verb to spread
+thema noun, het theme
+voegen verb to add
+gegeven noun, het fact, data
+conclusie noun, de(f) conclusion
+veertig num forty
+vlak noun, het plane
+ziekte noun, de(f) disease
+karakter noun, het character
+overnemen verb to take over
+beleven verb to go through
+jarenlang adj for years and years
+afdeling noun, de(f) department
+schijnen verb to appear
+behouden verb to keep
+advies noun, het advice
+aanval noun, de(m) attack
+akkoord noun, het a) agreement b) chord
+journalist noun, de(m) journalist
+gisteravond adv last night
+drijven verb to float
+verantwoordelijkheid noun, de(f) responsibility
+zestig num sixty
+materiaal noun, het material
+opleiding noun, de(f) training
+verwachting noun, de(f) expectation
+waarna adv after which
+straf noun, de punishment
+droom noun, de(m) dream
+ideaal adj ideal
+rechtstreeks adj direct
+uitgebreid adj extensive
+kader noun, het frame(work)
+vlucht noun, de a) flight b) escape
+tegenstelling noun, de(f) contrast
+seconde noun, de second
+puur adj pure
+pagina noun, de page
+zelden adv rarely
+bedanken verb to thank
+noodzakelijk adj necessary
+uitstekend adj excellent
+gedrag noun, het behaviour
+overleven verb to survive
+plaatsvinden verb to take place
+uiterst adv extremely
+vermoedelijk adj supposed, suspected
+voortaan adv henceforth
+uitmaken verb a) to decide b) to break up
+reizen verb to travel
+vechten verb to fight
+logisch adj logical
+vermoeden verb to presume
+creëren verb to create
+interview noun, het interview
+bord noun, het plate
+generatie noun, de(f) generation
+sindsdien adv since
+zone noun, de zone
+huwelijk noun, het marriage
+vermoorden verb to murder
+commentaar noun, de(m)/het comment
+computer noun, de(m) computer
+medisch adj medical
+tenslotte adv after all
+gebeurtenis noun, de(f) event
+gedurende prep during
+instelling noun, de(f) a) institution b) attitude
+fel adj fierce
+papier noun, het paper
+energie noun, de(f) energy
+weliswaar adv admittedly
+vermijden verb to avoid
+gerust adj calm
+val noun, de fall
+wapen noun, het weapon
+eiland noun, het island
+kern noun, de core
+verzekeren verb to ensure, to assure
+maatschappelijk adj social
+stijl noun, de(m) style
+typisch adj typical
+verwijderen verb to remove
+debat noun, het debate
+eis noun, de(m) requirement
+meenemen verb to take
+menselijk adj human
+verzorgen verb to care for
+zekerheid noun, de(f) certainty
+eer noun, de honour
+sector noun, de(m) sector
+restaurant noun, het restaurant
+ster noun, de star
+trots adj proud
+verbieden verb to prohibit
+getuige noun, de witness
+aanpakken verb to tackle
+toegang noun, de(m) access
+zuiden noun, het south
+aangeven verb to hand
+waarheid noun, de(f) truth
+effectief adj effective
+versterken verb to strengthen
+uitzondering noun, de(f) exception
+veertien num fourteen
+auteur noun, de(m) author
+model noun, het a) model b) model (person)
+scheiden verb to separate
+alsnog adv yet
+concreet adj concrete
+komst noun, de(f) advent
+buur noun, de(m) neighbour
+gouden adj gold
+welkom adj welcome
+afhankelijk adj dependent
+letterlijk adj literal
+museum noun, het museum
+smaak noun, de(m) taste
+snelheid noun, de(f) speed
+individueel adj individual
+hiermee adv herewith
+elders adv elsewhere
+acteur noun, de(m) actor
+uitleg noun, de(m) explanation
+aantrekken verb to put on
+arts noun, de(m) physician
+overleg noun, het consultation
+aansluiten verb to connect
+lossen verb to unload
+degene pron the one, those
+dom adj stupid
+centimeter, cm noun, de(m) centimetre
+vertonen verb to show
+detail noun, het detail
+geschikt adj suitable
+spanning noun, de(f) tension
+hotel noun, het hotel
+instantie noun, de(f) body, organization
+destijds adv at the time
+wetenschappelijk adj scientific
+noorden noun, het north
+fietsen verb to cycle
+concert noun, het concert
+voorkeur noun, de preference
+bezit noun, het possession
+passeren verb to pass
+werkelijkheid noun, de(f) reality
+fantastisch adj fantastic
+spannend adj exciting
+argument noun, het argument
+streek noun, de a) region b) trick
+moe adj tired
+begeleiden verb to accompany, to coach
+belangstelling noun, de(f) interest
+houding noun, de(f) attitude
+oproepen verb to call
+toegeven verb to admit
+zestien num sixteen
+vangen verb to catch
+wens noun, de(m) wish
+jezelf pron yourself
+massaal adj massive
+vermelden verb to mention
+wandelen verb to walk
+interesse noun, de(f) interest
+voorstelling noun, de(f) performance
+fase noun, de(f) phase
+bijkomen verb a) to add b) to come round
+vliegtuig noun, het plane
+nood noun, de(m) distress
+betekenis noun, de(f) meaning
+beroemd adj famous
+optreden noun, het action, performance
+behandeling noun, de(f) treatment
+ervaren verb to experience
+aanvaarden verb to accept
+kijker noun, de(m) viewer
+verblijven verb to stay
+aan bod noun, het offer
+mislukken verb to fail
+plant noun, de plant
+traditie noun, de(f) tradition
+verwerken verb to process
+verhouding noun, de(f) a) ratio b) affair
+belasting noun, de(f) tax
+arm adj poor
+specifiek adj specific
+zichtbaar adj visible
+pers noun, de a) press (journalists) b) press
+hoeveelheid noun, de(f) quantity
+kantoor noun, het office
+zetel noun, de(m) seat
+noch conj nor
+standpunt noun, het position
+dringend adj urgent
+gedragen (zich) verb to behave
+uitspreken verb to pronounce
+professioneel adj professional
+exemplaar noun, het copy
+aanwezigheid noun, de(f) presence
+goedkeuren verb to approve
+toelaten verb to allow
+toevoegen verb to add
+voorbereiden verb to prepare
+vrouwelijk adj female
+kwart noun, het quarter
+draad noun, de(m) thread
+handel noun, de(m) trade
+opleggen verb to impose
+Russisch adj Russian
+adres noun, het address
+interesseren verb to interest
+zelfstandig adj independent
+inspanning noun, de(f) effort
+patiënt noun, de(m) patient
+wetenschap noun, de(f) science
+zicht noun, het view
+heersen verb a) to be b) to dominate
+soldaat noun, de(m) soldier
+motor noun, de(m) engine, motorcycle
+verstaan verb to hear, to understand
+tekort noun, het shortage
+klas noun, de(f) class
+ofwel conj or
+praktisch adj practical
+uitslag noun, de(m) result
+waaraan adv at which
+uitbreiden verb to expand
+landelijk adj national
+doden verb to kill
+meedoen verb to participate
+qua prep qua
+achttien num eighteen
+kust noun, de coast
+schitterend adj brilliant
+vis noun, de(m) fish
+storten verb to deposit
+anderzijds adv on the other hand
+brug noun, de bridge
+Duitser noun, de(m) German
+visie noun, de(f) vision
+vandaan adv from
+vrede noun, de peace
+invoeren verb to introduce
+ongeluk noun, het accident
+jagen verb to hunt
+lezer noun, de(m) reader
+opbouwen verb to construct
+baby noun, de(m) baby
+handig adj handy
+papa noun, de(m) daddy
+verschillen verb to differ
+erover adv about
+techniek noun, de(f) technique
+uitgeven verb to spend
+verslag noun, het report
+gedeelte noun, het section
+geheim noun, het secret
+enthousiast adj enthusiastic
+wegen verb to weigh
+koop noun, de(m) buy
+voren adv forward
+vluchten verb to flee
+constant adj constant
+overwegen verb to consider
+schatten verb to estimate
+vergadering noun, de(f) meeting
+camera noun, de camera
+element noun, het element
+gevoelig adj sensitive
+boot noun, de boat
+plus adv plus
+test noun, de(m) test
+voorspellen verb to predict
+nauw adj tight
+schuldig adj guilty
+combineren verb to combine
+noteren verb to note
+scheppen verb a) to shovel b) to create
+beperkt adj limited
+kwartier noun, het quarter (of an hour)
+blok noun, het block
+wisselen verb to exchange
+boer noun, de(m) farmer
+grondig adj thorough
+aanvallen verb to attack
+bod noun, het offer
+pad 1) noun, het 2) noun, de 1) path 2) toad
+ambtenaar noun, de(m) civil servant
+gezien prep considering
+handelen verb to act
+ingaan verb to enter
+prins noun, de(m) prince
+daarentegen adv on the other hand
+ondergaan verb to undergo
+ondersteunen verb to support
+opening noun, de(f) opening
+pijnlijk adj painful
+eten noun, het food
+graad noun, de(m) degree
+juridisch adj juridical
+as noun, de a) axis b) ash
+benoemen verb to appoint
+norm noun, de norm
+wild adj wild
+aantreffen verb to find
+afnemen verb to take (away)
+kritisch adj critical
+verzoek noun, het request
+bestellen verb to order
+confronteren verb to confront
+troep noun, de(m) a) army b) mess
+vals adj false
+a prep to
+beslag noun, het a) batter b) fittings
+volwassen adj adult
+meester noun, de(m) master
+gezondheid noun, de(f) health
+hof noun, het court
+tenzij conj unless
+verminderen verb to reduce
+blazen verb to blow
+vertalen verb to translate
+overig adj remaining
+vlug adj quick
+automatisch adj automatic
+correct adj correct
+omgaan verb to handle
+toepassen verb to apply
+afspreken verb to arrange
+diezelfde pron the very same
+meten verb to measure
+binden verb to bind
+veroveren verb to conquer
+verzet noun, het resistance
+gezamenlijk adj joint
+aantrekkelijk adj attractive
+drug noun, de(m) drug
+milieu noun, het environment
+signaal noun, het signal
+ondernemen verb to undertake
+vak noun, het field, profession
+vreselijk adj terrible
+aanleggen verb to build
+ontwerpen verb to design
+stelling noun, de(f) a) proposition b) scaffolding
+bestaan noun, het existence
+appartement noun, het apartment
+cent noun, de(m) cent
+pensioen noun, het pension
+samenwerken verb to collaborate
+scherm noun, het screen
+intern adj internal
+park noun, het park
+opmerken verb to notice
+mengen verb to mix
+schelen verb to care
+kapot adj broken
+onderling adj mutual
+belachelijk adj ridiculous
+doorgaans adv usually
+ramp noun, de disaster
+vervelend adj annoying
+achten verb to deem
+inkomen noun, het income
+nadeel noun, het disadvantage
+koken verb to cook
+opname noun, de shot, recording
+aanspreken verb a) to address b) to appeal to
+klimmen verb to climb
+nabij adj near
+afleggen verb to do
+bescherming noun, de(f) protection
+evenveel num same
+hoogtepunt noun, het peak, highlight
+roman noun, de(m) novel
+theater noun, het theatre
+prettig adj nice
+spijtig adj regrettable
+uitsluiten verb to exclude
+verwijten verb to blame
+omkeren verb to reverse
+opgeven verb a) to give b) to give up
+sparen verb to save
+tijdschrift noun, het magazine
+garanderen verb to guarantee
+integendeel adv (on the) contrary
+rit noun, de(m) ride
+waarover adv about which
+zijde, zij noun, de side
+agenda noun, de diary, agenda
+beantwoorden verb to answer
+plat adj flat
+stimuleren verb to stimulate
+betrekking noun, de(f) relation
+drank noun, de(m) drink
+geheim adj secret
+lokken verb to lure
+loon noun, het wage
+ongelooflijk adj incredible
+kilo noun, de/het kilo
+pot noun, de(f) pot
+daad noun, de act
+ei noun, het egg
+regen noun, de(m) rain
+vermogen noun, het a) power b) fortune
+schrik noun, de(m) fright
+storen verb to disturb
+ondervinden verb to experience
+trachten verb to attempt
+uitzending noun, de(f) broadcast
+vanzelf adv automatically
+haven noun, de harbour
+professor noun, de(m) professor
+aangenaam adj pleasant
+bestrijden verb to dispute
+katholiek adj Catholic
+verbazen verb to surprise
+waaruit adv from which
+daaraan adv thereto
+koningin noun, de(f) queen
+oefenen verb to practise, to exercise
+onderscheiden verb to distinguish
+opkomen verb a) to come up b) to fight for
+pikken verb a) to pinch b) to tolerate
+vastleggen verb to fix
+fabriek noun, de(f) factory
+uitsluitend adv exclusively
+slikken verb to swallow
+vierkant adj square
+krachtig adj powerful
+theorie noun, de(f) theory
+terugkeer noun, de(m) return
+dikwijls adv often
+innemen verb a) to swallow b) to take up
+leraar noun, de(m) teacher
+tempo noun, het pace
+toeval noun, het coincidence
+streep noun, de stripe
+geboorte noun, de(f) birth
+kortom adv in short
+wil noun, de(m) will
+koppelen verb to couple
+paal noun, de(m) pole
+structuur noun, de(f) structure
+toerist noun, de(m) tourist
+uitvoering noun, de(f) implementation
+inzicht noun, het insight
+kat noun, de cat
+tweemaal adv twice
+verplaatsen verb to move
+echtgenote noun, de(f) wife
+letter noun, de letter
+schaal noun, de a) dish b) scale
+afwachten verb to wait
+bibliotheek noun, de(f) library
+althans adv at least
+huren verb to rent
+kamp noun, het camp
+voedsel noun, het food
+zwanger adj pregnant
+arbeider noun, de(m) worker
+excuus noun, het excuse
+midden adv in the middle of
+raden verb to guess
+negeren verb to ignore
+ophalen verb a) to collect b) to pull up
+accepteren verb to accept
+aspect noun, het aspect
+bodem noun, de(m) bottom
+stom adj stupid
+aard noun, de(m) nature
+concentreren (zich) verb to concentrate
+landschap noun, het landscape
+verwerven verb to acquire
+wekelijks adj weekly
+literatuur noun, de(f) literature
+cadeau noun, het gift
+lengte noun, de(f) length
+document noun, het document
+onzin noun, de(m) nonsense
+temperatuur noun, de(f) temperature
+terechtkomen verb to land
+bezwaar noun, het objection
+christelijk adj Christian
+nogmaals adv again
+vervoer noun, het transport
+onderweg adv on the way
+strand noun, het beach
+zwemmen verb to swim
+gewicht noun, het weight
+toestemming noun, de(f) permission
+vernietigen verb to destroy
+evenwicht noun, het balance
+stroom noun, de(m) a) flow b) stream c) electricity
+zeventien num seventeen
+kring noun, de(m) circle
+toepassing noun, de(f) application
+vijand noun, de(m) enemy
+staatssecretaris noun, de(m) Secretary of State
+gunstig adj favourable
+reclame noun, de advertisement
+doek noun, de(m) cloth
+oordeel noun, het judgement
+pand noun, de(m) property
+vlag noun, de flag
+toestel noun, het appliance
+gedicht noun, het poem
+ingang noun, de(m) entrance
+olie noun, de oil
+schilderij noun, de(f)/het painting
+college noun, het lecture
+plein noun, het square
+datum noun, de(m) date
+emotioneel adj emotional
+strijden verb to fight
+uitzonderlijk adj exceptional
+verlenen verb to grant
+vers adj fresh
+duur noun, de(m) duration
+goud noun, het gold
+bovenop adv on top
+trappen verb a) to kick b) to cycle
+hierover adv about this
+bezetten verb a) to occupy b) to set
+boel noun, de(m) lot
+fris adj fresh
+staken verb a) to cease b) to strike c) to tie
+verrichten verb to perform
+gunnen verb to grant
+methode noun, de(f) method
+vergroten verb to enlarge
+status noun, de(m) status
+massa noun, de mass
+random prep all round
+ton noun, de a) barrel b) 1000 kilo c) 100,000 euro
+e-mail noun, de(m) e-mail
+functioneren verb to function
+nuttig adj useful
+tocht noun, de(m) tour
+aandoen verb a) to cause b) to put on
+realiteit noun, de(f) reality
+aanvullen verb to complement
+dodelijk adj lethal
+verstand noun, het head
+bevallen verb a) to please b) to give birth
+uiten verb to express
+begeleiding noun, de(f) supervision
+gedeeltelijk adj partial
+registreren verb to register
+afbreken verb to break off/down
+informeren verb to inform
+permanent adj permanent
+daartoe adv ≈ to it
+agressief adj aggressive
+heus adj real
+lenen verb a) to borrow b) to lend
+onschuldig adj innocent
+opvangen verb a) to take care of b) to catch
+vervullen verb to fulfil
+zenden verb to send
+afronden verb a) to round up b) to finish
+familielid noun, het relative
+namiddag noun, de(m) (late) afternoon
+seksueel adj sexual
+bak noun, de(m) container
+ondertekenen verb to sign
+aanwijzen verb to show to
+beest noun, het beast
+verzetten verb to move
+bakken verb to bake
+verkeren verb to be
+hallo interj hello
+overblijven verb a) to remain b) to stay behind
+voornaam adj a) prominent b) main
+bijten verb to bite
+minimaal adj minimum
+totdat conj until
+vernemen verb to learn
+held noun, de(m) hero
+meid noun, de(f) girl
+daaruit adv from there
+regeling noun, de(f) regulation
+ring noun, de(m) ring
+terugvinden verb to find again
+verbetering noun, de(f) improvement
+vervolg noun, het continuation, sequel
+humor noun, de(m) humour
+omvatten verb to include
+vasthouden verb to hold
+onderhouden verb to maintain
+avontuur noun, het adventure
+beheersen verb to command
+vanzelfsprekend adj obvious
+varen verb to sail
+constateren verb to ascertain
+inrichten verb to furnish
+louter adj mere
+verderop adv further down
+begraven verb to bury
+gerucht noun, het rumour
+machine noun, de(f) machine
+symbool noun, het symbol
+bocht noun, de curve, bend
+instrument noun, het instrument
+spontaan adj spontaneous
+cursus noun, de(m) course
+middelbaar adj a) middle b) secondary
+bevoegdheid noun, de(f) authority
+exact adj exact
+maximum noun, het maximum
+seks noun, de(m) sex
+studio noun, de(m) studio
+gans adj whole
+invullen verb to fill in
+bende noun, de gang
+gigantisch adj gigantic
+mannelijk adj male
+communicatie noun, de(f) communication
+lelijk adj ugly
+afkomst noun, de(f) origin
+bestuderen verb to study
+hoogleraar noun, de(m) professor
+gevecht noun, het fight
+identiteit noun, de(f) identity
+overdag adv by day
+passagier noun, de(m) passenger
+schakelen verb to switch
+stemming noun, de(f) a) vote b) mood
+aanvragen verb to request, to apply for
+duidelijkheid noun, de(f) clearness
+inspireren verb to inspire
+instellen verb to set
+alcohol noun, de(m) alcohol
+creatief adj creative
+hetgeen pron that which, what
+gsm noun, de(m) mobile phone
+rondlopen verb to walk about
+aanbrengen verb to apply
+langdurig adj prolonged
+afvragen verb to wonder
+beoordelen verb to judge
+trouw adj faithful
+afschaffen verb to abolish
+intensief adj intensive
+personage noun, de(f)/het person, character
+verlagen verb to lower
+wijden verb to devote
+zwembad noun, het swimming pool
+ingewikkeld adj complicated
+overdreven adj overdone
+pauze noun, de break, half-time
+verstandig adj wise
+vertrouwen verb to trust
+afleiden verb a) to distract b) to deduce
+gas noun, het gas
+leerkracht noun, de teacher
+opeens adv suddenly
+paniek noun, de(f) panic
+verzinnen verb to invent
+doelstelling noun, de(f) goal
+strikt adj strict
+zodanig pron such
+bol noun, de(m) sphere
+hechten verb to attach
+kleuren verb to colour
+tekening noun, de(f) drawing
+bom noun, de bomb
+boord noun, het collar
+uitkijken verb to watch
+zeldzaam adj rare
+alleszins adv in every way
+bedreiging noun, de(f) threat
+kleren noun, pl clothes
+medicijn noun, de/het drug, medicine
+opzet noun, de(m)/het a) planning, design b) intention
+uitbrengen verb to publish, to release
+collectie noun, de(f) collection
+wetgeving noun, de(f) legislation
+kleding noun, de(f) clothing
+joods adj Jewish
+kanaal noun, het channel
+klimaat noun, het climate
+regeren verb to reign, to govern
+terras noun, het terrace
+aanzien noun, het respect
+bijeenkomst noun, de(f) meeting
+doorbreken verb to break through
+zuiver adj pure
+besparen verb to save
+keuren verb to test, to taste
+onthouden verb to remember
+supermarkt noun, de supermarket
+aanduiden verb to indicate
+tent noun, de tent
+vermoeden noun, het presumption
+evenals conj as well as
+Grieks adj Greek
+ingrijpen verb to intervene
+kasteel noun, het castle
+ruil noun, de(m) exchange
+bereiden verb to prepare
+braaf adj good
+neerleggen verb to put down
+berekenen verb to calculate
+moreel adj moral
+saai adj boring
+tegenkomen verb to encounter
+verdrag noun, het treaty
+aanwijzing noun, de(f) sign, indication
+echtgenoot noun, de(m) husband
+suggereren verb to suggest
+uitwerken verb to elaborate
+vrucht noun, de fruit
+allereerst adj first
+ruimen verb to clean up
+voorganger noun, de(m) predecessor
+burgerlijk adj civil
+wapenen(zich) verb to arm
+adviseren verb to advise
+boeien verb to entertain
+Duits noun, het German
+gebruikelijk adj usual
+monument noun, het monument
+namens prep on behalf of
+opsluiten verb to lock up
+voeden verb to feed
+gelijk noun, het right
+machtig adj powerful
+misdaad noun, de crime
+opduiken verb to emerge
+aanvraag noun, de application
+architect noun, de(m) architect
+benaderen verb to approach
+overtuiging noun, de(f) conviction
+scheiding noun, de(f) separation, divorce
+bezighouden verb to occupy
+vleugel noun, de(m) wing
+falen verb to fail
+medaille noun, de medal
+omvang noun, de(m) size
+straffen verb to punish
+verblijf noun, het stay
+muzikant noun, de(m) musician
+vereisen verb to require
+voorheen adv before
+wezen noun, het being
+blank adj white, blank
+opvatting noun, de(f) view, opinion
+keihard adj hard
+regenen verb to rain
+waarderen verb to appreciate
+fractie noun, de(f) a) ≈ party, group b) fraction
+gemeenschappelijk adj common
+generaal noun, de(m) general
+ongelukkig adj unhappy
+opzoeken verb to visit
+vrijwillig adj voluntary
+bijeen adv together
+haat noun, de(m) hate
+kip noun, de(f) chicken
+literair adj literary
+aanstellen verb to appoint
+voorwerp noun, het object
+enerzijds adv on the one hand
+garantie noun, de(f) guarantee
+talloos adj countless
+wandeling noun, de(f) walk
+toren noun, de(m) tower
+bestemming noun, de(f) destination
+openlijk adj open, public
+uitgever noun, de(m) publisher
+zitting noun, de(f) a) seat b) session
+armoede noun, de poverty
+opmaken verb to conclude
+wennen verb to get used to
+gering adj slight, little
+invoering noun, de(f) introduction
+onderscheid noun, het distinction
+opbrengen verb to yield
+bad noun, het bath
+prioriteit noun, de(f) priority
+protesteren verb to protest
+allicht adv probably
+handhaven verb to maintain
+mail noun, de e-mail
+route noun, de route
+huisarts noun, de(m) general practitioner
+ikzelf pron (I) myself
+jood noun, de(m) Jew
+pc noun, de(m) personal computer
+talrijk adj numerous
+toneel noun, het stage
+vies adj dirty
+zelfmoord noun, de suicide
+kassa noun, de cash desk
+nadruk noun, de(m) emphasis
+pech noun, de(m) bad luck
+achterhalen verb a) to retrieve, to recover b) to overtake
+doorheen prep through
+garage noun, de(f) garage
+bedienen verb a) to serve b) to operate
+formeel adj formal
+landbouw noun, de(m) agriculture
+loopbaan noun, de career
+nader adj further
+neef noun, de(m) nephew, cousin
+toezicht noun, het supervision
+verloop noun, het course
+veronderstellen verb to suppose
+geleidelijk adj gradual
+inhouden verb a) to deduct b) to imply
+omzetten verb to convert
+afzien verb a) to forgo b) to have a hard time
+begaan verb to commit
+behulp noun, het help
+leed noun, het sorrow
+opgroeien verb to grow up
+schoppen verb to kick
+vertaling noun, de(f) translation
+afwijzen verb to reject
+neerzetten verb to put down
+proeven verb to taste
+uiterlijk noun, het appearance
+vlakbij adv close
+zozeer adv so much
+apparaat noun, het device
+duiden verb to point at
+geliefd adj beloved
+hooguit adv at most
+uitgeverij noun, de(f) publisher
+voordoen verb a) to occur b) to show c) to put on
+dialoog noun, de(m) dialogue
+mededeling noun, de(f) announcement
+overbodig adj superfluous
+uitroepen verb to exclaim, to proclaim
+buitenlander noun, de(m) foreigner
+aandringen verb to insist
+context noun, de(m) context
+minister-president noun, de(m) prime minister
+ontvangst noun, de(f) reception
+opvoeding noun, de(f) upbringing
+reserveren verb to reserve
+vervelen (zich) verb to be bored
+heet adj hot
+video noun, de(m) video
+noodzaak noun, de need
+presentatie noun, de(f) presentation
+prinses noun, de(f) princess
+aangaan verb to start
+formuleren verb to formulate
+grof adj coarse, gross
+uitoefenen verb to exercise
+enquête noun, de survey
+flauw adj weak
+romantisch adj romantic
+trui noun, de sweater
+poort noun, de gate
+uitvallen verb to drop/fall out
+elektrisch adj electric
+omringen (zich) verb to surround
+pop noun, de doll
+voortzetten verb to continue
+vooruitgang noun, de(m) progress
+examen noun, het examination
+failliet adj bankrupt
+meewerken verb to contribute
+melk noun, de milk
+actueel adj current
+eigenschap noun, de(f) property, characteristic
+meebrengen verb to bring
+nut noun, het use
+uitgroeien verb to grow
+vergissen (zich) verb to be mistaken
+verplichting noun, de(f) obligation
+dans noun, de(m) dance
+geduld noun, het patience
+lichamelijk adj physical
+verwarren verb to confound
+achteraan adv behind
+paren verb to mate
+perspectief noun, het perspective
+uitdelen verb to distribute
+ultiem adj ultimate
+inzien verb to see
+opheffen verb a) to lift b) to abolish
+liefhebber noun, de(m) lover
+afspelen (zich) verb to happen
+feitelijk adj factual
+kanker noun, de(m) cancer
+pas noun, de(m) a) step b) pass(port)
+uitbreken verb to break out
+volstrekt adv absolutely
+aanzetten verb to encourage
+groente noun, de(f) vegetable
+koper 1) noun, de(m) 2) noun, het 1) buyer 2) copper
+motief noun, het motive
+opleiden verb to train
+revolutie noun, de(f) revolution
+beëindigen verb to terminate
+kwaad noun, het evil
+schilder noun, de(m) painter
+verstoppen verb to hide
+voorop adv ahead
+afzetten verb a) to drop off b) to cheat c) to turn off
+belasten verb a) to tax b) to overload
+diploma noun, het diploma
+herhaling noun, de(f) repetition
+onderuit adv ≈ sprawled
+samenstellen verb to compose, to put together
+schetsen verb to sketch
+verhinderen verb to prevent
+bitter adj bitter
+boerderij noun, de(f) farm
+officier noun, de(m) officer
+overgaan verb a) to move up b) to pass
+ertoe adv to
+missie noun, de(f) mission
+vervallen verb to disappear
+buitengewoon adj exceptional, extraordinary
+dank noun, de(m) thanks
+hoofdstuk noun, het chapter
+opgaan verb to merge
+terugtrekken verb to withdraw
+balen verb to be fed up with
+desnoods adv if necessary
+kwetsbaar adj vulnerable
+onzekerheid noun, de(f) uncertainty
+proef noun, de test
+uitkering noun, de(f) payment, benefit
+wiel noun, het wheel
+individu noun, het individual
+stress noun, de(m) stress
+groots adj grand, ambitious
+lezing noun, de(f) lecture
+stilstaan verb to stop
+toilet noun, het toilet
+verzameling noun, de(f) collection
+vorderen verb a) to claim b) to progress
+experiment noun, het experiment
+gezondheidszorg noun, de health care
+opvoeren verb a) to increase b) to stage
+pakket noun, het packet
+pil noun, de pill
+ritme noun, het rhythm
+uitschakelen verb to eliminate
+vergoeding noun, de(f) compensation
+pen noun, de pen
+reiziger noun, de(m) traveller
+salaris noun, het salary
+kwetsen verb to hurt
+meer num more
+fundamenteel adj fundamental
+geestelijk adj mental
+oma noun, de(f) grandma
+storm noun, de(m) storm
+vanochtend adv this morning
+verzekering noun, de(f) insurance
+appel noun, de(m) apple
+bereikbaar adj reachable
+chaos noun, de(m) chaos
+gezag noun, het authority
+onderschatten verb to underestimate
+zielig adj pathetic
+desondanks adv nevertheless
+plicht noun, de duty
+betaling noun, de(f) payment
+plukken verb to pick
+vervoeren verb to transport
+beïnvloeden verb to influence
+doorlopen verb a) to keep on walking b) to go through
+duurzaam adj durable
+fruit noun, het fruit
+hobby noun, de(m) hobby
+kapitein noun, de(m) captain
+luxe noun, de(m) luxury
+uitrusten verb a) to equip b) to rest
+werkzaamheden noun, pl activities
+wortel noun, de(m) a) carrot b) root
+intrekken verb a) to retract b) to withdraw
+paars adj purple
+bizar adj bizarre
+citeren verb to quote
+voorafgaan verb to precede
+aansluiting noun, de(f) connection
+betrouwbaar adj reliable
+net noun, het net
+verstoren verb to disturb
+waarschuwing noun, de(f) warning
+arbeid noun, de(m) labour
+bestemmen verb to intend
+frustratie noun, de(f) frustration
+tegenhouden verb to stop
+administratie noun, de(f) administration
+evolueren verb to evolve
+nadrukkelijk adj emphatic
+vet adj fat
+vloeien verb to flow
+duivel noun, de(m) devil
+herkenbaar adj recognizable
+verf noun, de paint
+financieren verb to finance
+suggestie noun, de(f) suggestion
+greep noun, de grab
+tarief noun, het rate
+uitkomst noun, de(f) result
+kleinkind noun, het grandchild
+ontdekking noun, de(f) discovery
+vergen verb to require
+bezetting noun, de(f) a) occupation b) cast
+leugen noun, de lie
+psychologisch adj psychological
+jarig adj celebrating a birthday
+nagenoeg adv almost
+waardevol adj valuable
+kelder noun, de(m) basement
+optimaal adj optimal
+opvoeden verb to raise
+accent noun, het a) accent b) emphasis
+doorgeven verb to pass on
+formule noun, de formula
+handicap noun, de(m) handicap
+jacht noun, de a) hunt(ing) b) yacht
+laag noun, de layer
+moordenaar noun, de(m) murderer, killer
+passie noun, de(f) passion
+som noun, de sum
+getal noun, het number
+klikken verb to click
+naarmate conj as
+onderbrengen verb to accommodate, to lodge
+opvang noun, de(m) care
+trek noun, de(m) appetite
+inhoudelijk adj substantive, concerning content
+onthullen verb to reveal
+overgang noun, de(m) transition
+voorziening noun, de(f) facility
+snelweg noun, de(m) motorway
+discipline noun, de(f) discipline
+particulier adj private
+slopen verb to demolish
+uitrekenen verb to calculate
+enkel noun, de(m) ankle
+filosofie noun, de(f) philosophy
+oranje adj orange
+part noun, het part
+steevast adv invariably
+verschijnsel noun, het phenomenon
+verstrekken verb to provide
+bevoegd adj competent
+smaken verb to taste
+verbranden verb to burn
+voorgaan verb to let go first
+illusie noun, de(f) illusion
+neiging noun, de(f) tendency
+stal noun, de(m) stable
+verlichting noun, de(f) light(ing)
+wijken verb to disappear
+hoofdredacteur noun, de(m) editor-in-chief
+volhouden verb to maintain
+wacht 1) noun, de 2) noun, de(m) 1) watch 2) guard
+zakelijk adj business
+afzonderlijk adj separate
+ondersteuning noun, de(f) support
+toespraak noun, de speech
+waarnemen verb to observe
+goedkeuring noun, de(f) approval
+installeren verb to install
+tijdstip noun, het (point of/in) time
+analyseren verb to analyse
+afwijken verb to deviate
+gids noun, de(m) guide
+laden verb to load
+opruimen verb to tidy up
+opstand noun, de(m) rebellion
+uitgangspunt noun, het starting point
+vocht 1) noun, de/het 2) noun, het 1) moisture 2) liquid
+bevel noun, het command
+bloeien verb to bloom
+docent noun, de(m) teacher, lecturer
+dreiging noun, de(f) threat
+gedoe noun, het hassle
+lente noun, de spring
+minimum noun, het minimum
+beloning noun, de(f) reward
+compenseren verb to compensate
+datzelfde pron the same
+dichter noun, de(m) poet
+noot noun, de a) note b) nut
+paleis noun, het palace
+priester noun, de(m) priest
+vluchteling noun, de(m) refugee
+bladzijde noun, de page
+grootte noun, de(f) size
+kaas noun, de(m) cheese
+kleuter noun, de(m) infant
+mentaliteit noun, de(f) mentality
+ondergronds adj underground
+onwaarschijnlijk adj unlikely
+uitnodiging noun, de(f) invitation
+verwijt noun, het reproach
+weerstand noun, de(m) resistance
+afmaken verb to finish
+afval noun, de(m)/het waste
+huwen verb to marry
+omtrent prep about
+verwerpen verb to reject
+interpretatie noun, de(f) interpretation
+lading noun, de(f) load
+redenering noun, de(f) reasoning
+stoer adj tough
+tram noun, de(m) tram
+versieren verb to decorate
+buurman noun, de(m) neighbour
+intelligent adj intelligent
+kapitaal noun, het capital
+lawaai noun, het noise
+objectief adj objective
+rel noun, de(m) riot
+zonde noun, de sin
+affaire noun, de affair
+begrijpelijk adj understandable, comprehensible
+biologisch adj biological
+communistisch adj communist
+dagblad noun, het newspaper
+flat noun, de(m) flat
+kogel noun, de(m) bullet
+schande noun, de shame, disgrace
+frustreren verb to frustrate
+opletten verb to pay attention
+persoonlijkheid noun, de(f) personality
+traject noun, het route
+bioscoop noun, de(m) cinema
+feestdag noun, de(m) holiday
+integreren verb to integrate
+recept noun, het recipe
+rijp adj ripe
+ronduit adv outright, simply
+tijdig adj timely
+archief noun, het archive
+gitaar noun, de guitar
+put noun, de(m) well
+rond adj round
+concentratie noun, de(f) concentration
+dagen verb a) to summon b) to dawn
+koor noun, het choir
+neigen verb to incline
+oefening noun, de(f) exercise
+schitteren verb to shine
+uithalen verb a) to lash out b) to be up to
+aanvoeren verb to supply, to bring
+glazen adj glass
+progressief adj progressive
+uitpakken verb a) to unpack b) to turn out
+vreemdeling noun, de(m) stranger
+evengoed adv as well
+kweken verb to cultivate, to grow
+middernacht noun, de(m) midnight
+munt noun, de coin
+opslaan verb to store
+uitdrukken verb to stub out
+afhangen verb to depend
+filmen verb to film
+overleggen verb to consult
+versnellen verb to accelerate
+verwoesten verb to destroy
+aantasten verb to affect
+bewerken verb to work
+doorvoeren verb to carry out
+feliciteren verb to congratulate
+fier adj proud
+handeling noun, de(f) action
+weleens adv sometimes, ever
+zuur adj sour, acid
+ambassadeur noun, de(m) ambassador
+neutraal adj neutral
+nuchter adj a) empty, sober b) plain
+vooraan adv in front
+fataal adj fatal
+intellectueel adj intellectual
+maandelijks adj monthly
+mode noun, de fashion
+verkondigen verb to proclaim, to put forward
+woonplaats noun, de residence
+beslist adj decisive, resolute
+bovenaan adv at the top
+dijk noun, de(m) dike
+gieten verb to pour
+misverstand noun, het misunderstanding
+omkomen verb to die
+trouw noun, de faith(fulness)
+afvoeren verb to transport
+eng adj scary
+ontploffen verb to explode
+rang noun, de(m) rank
+richtlijn noun, de guideline
+ruilen verb to exchange
+straf adj hard
+deugd noun, de virtue
+discussiëren verb to discuss
+essentieel adj essential
+evident adj evident
+genezen verb to cure
+inrichting noun, de(f) design
+jaloers adj jealous
+motto noun, het motto
+naïef adj naive
+nicht noun, de(f) niece, cousin
+plezant adj amusing
+gruwelijk adj horrible
+kabel noun, de(m) cable
+schaap noun, het sheep
+tienduizend num ten thousand
+zolang adv as long as
+aanraden verb to recommend
+bui noun, de shower, rain
+medewerking noun, de(f) collaboration
+opinie noun, de(f) opinion
+piano noun, de piano
+afwisselen verb to alternate
+financiering noun, de(f) financing
+merendeel noun, het most, majority
+receptie noun, de(f) reception
+sedert prep since
+staking noun, de(f) strike
+verschaffen verb to provide
+versturen verb to send
+voltooien verb to complete
+absurd adj absurd
+communiceren verb to communicate
+levenslang adj lifelong
+signaleren verb to signal, to observe
+vet noun, het fat
+zogezegd adj so to speak
+afgeven verb to deliver
+bijnaam noun, de(m) nickname
+verbouwen verb a) to renovate b) to cultivate
+bedriegen verb to cheat
+code noun, de(m) code
+herfst noun, de(m) autumn
+meespelen verb to take part, to play
+orkest noun, het orchestra
+uiting noun, de(f) expression
+verdienste noun, de(f) merit
+bisschop noun, de(m) bishop
+onnodig adj unnecessary
+profiel noun, het profile
+toestaan verb to allow
+transport noun, het transport
+beledigen verb to offend
+compromis noun, het compromise
+motivatie noun, de(f) motivation
+pint noun, de pint, (glass of) beer
+reëel adj real
+zinloos adj meaningless
+zout noun, het salt
+aanstaand adj next, this
+buis noun, de tube
+deftig adj distinguished
+fascineren verb to fascinate
+inval noun, de(m) raid
+opdoen verb to gain
+passage noun, de(f) passage
+schooljaar noun, het school year
+weekblad noun, het weekly magazine
+filosoof noun, de(m) philosopher
+industrieel adj industrial
+ingenieur noun, de(m) engineer
+voorraad noun, de(m) stock
+muis noun, de mouse
+baat noun, de benefit
+bakker noun, de(m) baker
+front noun, het front
+logica noun, de(f) logic
+overeenkomen verb to correspond, to match
+voorschrijven verb to prescribe
+aanslaan verb a) to be successful b) to tax
+beogen verb to aim
+betwijfelen verb to doubt
+onderdak noun, het accommodation, shelter
+staf noun, de(m) a) staff (object) b) staff (people)
+telefonisch adj telephonic
+verschuiven verb to move
+zilver noun, het silver
+bespreking noun, de(f) discussion
+fuif noun, de party
+illustreren verb to illustrate
+nagaan verb to check
+raadplegen verb to consult
+soepel adj flexible, smooth
+vrijkomen verb a) to be set free b) to be released
+zonnig adj sunny
+ambassade noun, de(f) embassy
+bevriend adj friendly
+doodschieten verb to shoot (dead)
+homo noun, de(m) gay
+patroon noun, het pattern
+planeet noun, de planet
+toewijzen verb to assign
+uitzetten verb a) to turn off b) to deport, to throw out
+afkomen verb to come down
+afleveren verb to deliver
+alvorens conj before
+leeuw noun, de(m) Non
+systematisch adj systematic
+verdrijven verb to expel
+verwennen verb to pamper
+waardering noun, de(f) appreciation
+alleenstaand adj single
+eenmalig adj one-off
+eenzelfde pron same
+haken verb to catch, to hook
+onderaan adv at the bottom
+terugbrengen verb to return
+uitbouwen verb to extend
+vondst noun, de(f) find
+weghalen verb to remove
+uittrekken verb to take off
+dienstverlening noun, de(f) service(s)
+immens adj immense
+korting noun, de(f) discount
+stroming noun, de(f) current, movement
+verkrachten verb to rape
+vliegveld noun, het airport
+beletten verb to prevent
+benadering noun, de(f) approximation, approach
+consequentie noun, de(f) consequence
+fungeren verb to function
+helling noun, de(f) slope
+politieagent noun, de(m) police officer
+ras noun, het race, breed
+relevant adj relevant
+stempel noun, de(m)/het stamp
+uitvinden verb to invent
+werkgroep noun, de working group
+afstuderen verb to graduate
+bekleden verb to occupy
+kroon noun, de crown
+schrijfster noun, de(f) writer, authoress
+tegenvallen verb to disappoint
+toer noun, de(m) tour
+vergezellen verb to accompany
+verkennen verb to explore
+achterkant noun, de(m) back
+bekomen verb to recover
+expliciet adj explicit
+minst num least
+opera noun, de(m) opera
+service noun, de(m) service
+middeleeuws adj medieval
+object noun, het object
+overschot noun, het surplus
+psychisch adj psychological
+rijkdom noun, de(m) wealth
+suiker noun, de(m) sugar
+tegendeel noun, het opposite
+vergoeden verb to reimburse
+aanbieding noun, de(f) offer
+ban noun, de(m) ban
+bijhouden verb to keep (up)
+depressie noun, de(f) depression
+graven verb to dig
+marge noun, de margin
+onszelf pron ourselves
+opa noun, de(m) grandpa
+virus noun, het virus
+biografie noun, de(f) biography
+overdragen verb to pass on, to transfer
+schandaal noun, het scandal
+advertentie noun, de(f) advertisement
+bewaken verb to guard
+bundel noun, de(m) edited volume
+herkomst noun, de(f) origin
+klooster noun, het monastery
+peil noun, het level
+stadium noun, het stage
+berekening noun, de(f) calculation
+continu adj continuous
+monster noun, het a) monster b) sample
+paspoort noun, het passport
+tunnel noun, de(m) tunnel
+tweetal noun, het two
+lekken verb to leak
+onbegrijpelijk adj incomprehensible
+onderwerpen verb to subject
+pakweg adv roughly
+subtiel adj subtle
+triest adj sad
+verzoeken verb to request
+waardig adj worthy
+Bijbel noun, de(m) bible
+bijwonen verb to attend
+geldig adj valid
+meevallen verb to turn out not too bad
+pond noun, het pound
+sloot noun, de ditch
+verwaarlozen verb to neglect
+aanvang noun, de(m) commencement
+cliché noun, het cliché
+ophangen verb to hang
+orgaan noun, het organ
+rechtvaardigen verb to justify
+tropisch adj tropical
+bon noun, de(m) a) coupon b) ticket
+citaat noun, het quote
+comfortabel adj comfortable
+continent noun, het continent
+formaat noun, het format
+identificeren verb to identify
+indertijd adv at the time
+kunstmatig adj artificial
+landgenoot noun, de(m) countryman
+taboe noun, de(m)/het taboo
+theoretisch adj theoretical
+verhuren verb to let
+welvaart noun, de prosperity
+willekeurig adj arbitrary
+herhaaldelijk adv repeatedly
+pensioneren verb to retire
+wederzijds adj mutual
+wegnemen verb to take away
+academie noun, de(f) academy
+gehandicapt adj handicapped
+hekel noun, de(m) dislike
+ietwat adv somewhat
+ongewenst adj unwanted, undesirable
+overhouden verb to have left
+pastoor noun, de(m) pastor
+schriftelijk adj written
+teleurstelling noun, de(f) disappointment
+agressie noun, de(f) aggression
+andersom adv vice versa
+opblazen verb to blow
+platteland noun, het countryside
+rot adj a) rotten b) rotten, awful
+universitair adj university
+verwelkomen verb to welcome
+wraak noun, de revenge
+aankunnen verb to manage
+aap noun, de(m) monkey
+actualiteit noun, de(f) current event
+beleggen verb a) to convene b) to invest
+besmetten verb to infect
+bevelen verb to order, to command
+bewonen verb to live in, to inhabit
+cool adj cool
+diplomatiek adj diplomatic
+geregeld adv regularly
+huur noun, de rent
+sympathiek adj sympathetic
+toneelstuk noun, het play
+trakteren verb to treat
+variatie noun, de(f) variation
+wc noun, de(m) toilet
+wederom adv again
+werkdag noun, de(m) working day
+afgaan verb a) to fail b) to go off
+gehoor noun, het hearing
+invallen verb to stand in
+mits conj provided that
+tijdperk noun, het era
+T-shirt noun, het T-shirt
+allesbehalve adv anything but
+consequent adj consistent
+politieman noun, de(m) policeman
+software noun, de(m) software
+uitsterven verb to die (out)
+allerhande pron all kinds of
+bevriezen verb to freeze
+fragment noun, het fragment
+sympathie noun, de(f) sympathy
+vooroordeel noun, het prejudice
+begeleider noun, de(m) supervisor
+hogeschool noun, de college
+integraal adj integral
+lof noun, de(m) praise
+opbouw noun, de(m) construction
+oversteken verb to cross
+problematiek noun, de(f) problems
+uitvoerig adj detailed
+verkoper noun, de(m) seller
+waartoe adv to which
+aanmoedigen verb to encourage
+achterin adv in the back
+bestand noun, het a) file b) truce
+ongeacht adv regardless
+ontlenen verb to derive
+overstappen verb to change over
+vijver noun, de(m) pond
+voorval noun, het incident
+weduwe noun, de(f) widow
+wegleggen verb to put away
+aanrichten verb to cause
+bijstaan verb to assist
+overwinnen verb to overcome
+schijf noun, de a) slice b) disk
+vorst 1) noun, de 2) noun, de(m) 1) monarch 2) frost
+bevestiging noun, de(f) confirmation
+fatsoenlijk adj decent
+geruim adj considerable
+kledij noun, de(f) clothing
+planten verb to plant
+proper adj tidy, clean
+restaureren verb to restore
+zelfvertrouwen noun, het self-confidence
+hopeloos adj hopeless
+tank noun, de(m) a) (fuel) tank b) tank (army vehicle)
+uiterlijk adj external
+verleiden verb to seduce
+vuurwerk noun, het firework
+zuinig adj frugal
+afstaan verb to give up
+architectuur noun, de(f) architecture
+evaluatie noun, de(f) evaluation
+folder noun, de(m) leaflet
+gunst noun, de(f) favour
+kermis noun, de fair
+leer 1) noun, het 2) noun, de 1) leather 2) doctrine
+sprang noun, de(m) jump
+varken noun, het pig
+verwoorden verb to articulate
+essentie noun, de(f) essence
+kar noun, de cart
+kijk noun, de(m) look
+overeenstemming noun, de(f) agreement
+overweging noun, de(f) consideration
+psycholoog noun, de(m) psychologist
+spot noun, de(m) a) spotlight b) ridicule
+winkelen verb to shop
+bel noun, de bell
+keten noun, de chain
+oppassen verb to babysit
+pompen verb to pump
+schenden verb to harm
+stop noun, de(m) stop
+vraagteken noun, het question mark
+corrigeren verb to correct
+echo noun, de(m) echo
+geschrift noun, het writing
+inlichting noun, de(f) information
+menu noun, het menu
+taart noun, de cake
+aanschaffen verb to purchase
+ethisch adj ethical
+kopie noun, de(f) copy
+levendig adj lively
+vaderland noun, het (native) country
+standaard noun, de(m) standard
+baren verb to bear
+contrast noun, het contrast
+ferm adj firm
+genetisch adj genetic
+globaal adj rough
+pesten verb to bully
+privacy noun, de(f) privacy
+uitlopen verb a) to sprout b) to lead to
+dosis noun, de(f) dose
+krap adj tight
+overheersen verb to dominate
+truc noun, de(m) trick
+vaardigheid noun, de(f) skill
+associëren verb to associate
+bestraffen verb to punish
+deal noun, de(m) deal
+erfenis noun, de(f) heritage, inheritance
+invulling noun, de(f) interpretation, filling-in
+psychiater noun, de(m) psychiatrist
+speelgoed noun, het toys
+zeil noun, het sail
+apparatuur noun, de(f) equipment
+inbouwen verb to build in
+isoleren verb to isolate
+metro noun, de(m) metro
+overtreffen verb to surpass
+piloot noun, de(m) pilot
+redding noun, de(f) rescue
+schema noun, het scheme
+toekomen verb to get round to
+uitverkopen verb to sell out
+vacature noun, de(f) vacancy
+afkeuren verb to disapprove
+dal noun, het valley
+experimenteren verb to experiment
+idioot adj idiot
+inschatten verb to assess, to estimate
+introductie noun, de(f) introduction
+kerst noun, de Christmas
+meer noun, het lake
+overdrijven verb to exaggerate
+rauw adj raw
+slordig adj untidy, sloppy
+verleden adj past, last
+verlof noun, het leave
+zaaien verb to sow
+beschaving noun, de(f) civilization
+demonstreren verb a) to show b) to protest
+dirigent noun, de(m) conductor
+tweeling noun, de(m) twins
+veelvuldig adj frequent
+woestijn noun, de desert
+zinvol adj meaningful
+aanmelden (zich) verb to sign up
+bruikbaar adj useful
+camping noun, de(m) camp site
+compliment noun, het compliment
+dopen verb to baptize
+kappen verb to cut (down)
+moedig adj brave
+opknappen verb a) to do up, to restore b) to recover
+vlakte noun, de(f) plain
+bewering noun, de(f) assertion
+erna adv after (it)
+interviewen verb to interview
+kalender noun, de(m) calendar
+ongelijk adj unequal
+sprookje noun, het fairy tale
+uitstap, uitstapje noun, de(m)/het trip
+buurvrouw noun, de(f) neighbour, woman next door
+chocolade noun, de(m) chocolate
+hoofddoek noun, de(m) headscarf
+inhalen verb to overtake
+kleintje noun, het little one
+mythe noun, de myth
+schandalig adj scandalous
+verouderen verb to age
+volgorde noun, de order
+bevrijding noun, de(f) liberation
+inspecteur noun, de(m) inspector
+manipuleren verb to manipulate
+opgave noun, de task
+vissen verb to fish
+ideaal noun, het ideal
+ironisch adj ironie
+kopiëren verb to copy
+opeisen verb to claim
+strip noun, de(m) cartoon
+troon noun, de(m) throne
+uitermate adv extremely
+vergaderen verb to meet
+vermits conj since
+wegvallen verb to be lost
+bestelling noun, de(f) order
+boeiend adj fascinating
+bronzen adj bronze
+diagnose noun, de(f) diagnosis
+driekwart adj three-quarter
+lief noun, het beloved
+materie noun, de(f) matter
+ontnemen verb to deprive
+afstemmen verb to tune, to adjust
+helikopter noun, de(m) helicopter
+indelen verb to classify, to group
+inleiding noun, de(f) introduction
+lek adj leaky, flat
+metaal noun, het metal
+uitkiezen verb to pick
+afbeelden verb to depict
+afdoen verb a) to take off b) to dismiss
+aftekenen verb a) to settle the bill b) to judge (on)
+benzine noun, de petrol
+bezien verb to see
+bont adj (multi)coloured
+conferentie noun, de(f) conference
+juf noun, de(f) (female) teacher
+medium noun, het medium
+pijl noun, de(m) arrow
+pittig adj spicy
+planning noun, de(f) plan(ning)
+razend adj a) furious (adv) b) very
+allerlaatst adj very last
+explosie noun, de(f) explosion
+portie noun, de(f) serving
+slang noun, de a) snake b) hose
+toets noun, de(m) key
+verpakking noun, de(f) packing
+hoeverre adv to what extent
+journaal noun, het news
+kapel noun, de chapel
+paradijs noun, het paradise
+plak noun, de slice
+revolutionair adj revolutionary
+voorin adv in (the) front
+afhalen verb to pick up, to collect
+fanatiek adj fanatic
+hakken verb to cut/hew (out)
+luik noun, het a ) shutter b) part
+stammen verb to date
+afwijking noun, de(f) deviation
+checken verb to check
+drang noun, de(m) urge
+duister adj dark
+regelmaat noun, de regularity
+verantwoording noun, de(f) responsibility
+volume noun, het volume
+boter noun, de butter
+identiek adj identical
+onnozel adj silly
+pogen verb to attempt
+profeet noun, de(m) prophet
+prooi noun, de prey
+voornemen verb to plan
+wantrouwen noun, het distrust
+wetsvoorstel noun, het bill
+wijsheid noun, de(f) wisdom
+zodoende adv consequently
+landen verb to land
+mist noun, de(m) fog
+nachtmerrie noun, de nightmare
+ondergang noun, de(m) (down)fall, destruction
+rat noun, de rat
+bereik noun, het reach
+beschouwing noun, de(f) consideration, view
+betoog noun, het argument, plea
+binnenland noun, het inland
+buitenkant noun, de(m) outside
+chic adj chic
+eend noun, de duck
+gokken verb to gamble
+instorten verb to collapse
+order noun, de/het order
+rede noun, de speech
+regelrecht adj straight
+uitdrukkelijk adj explicit
+beer noun, de(m) bear
+komisch adj comic
+redeneren verb to reason
+verwarming noun, de(f) heating
+woeden verb to rage
+communist noun, de(m) communist
+daaronder adv thereunder
+doortrekken verb a) to extend b) to flush
+harmonie noun, de(f) harmony
+puber noun, de adolescent
+rijst noun, de(m) rice
+spreker noun, de(m) speaker
+kantine noun, de(f) canteen
+molen noun, de(m) mill
+zijkant noun, de(m) side
+kas noun, de a) greenhouse b) cash
+kerkelijk adj ecclesiastical, church
+verslaafd adj addicted
+breedte noun, de(f) width
+erdoor adv through it
+koelkast noun, de refrigerator
+kwijtraken verb to lose
+meegeven verb to give
+opeten verb to eat
+sporten verb to play sport, to exercise
+verbond noun, het treaty, covenant
+verpakken verb to wrap up
+voortkomen verb to result
+weerhouden verb to withhold
+beton noun, het concrete
+box noun, de(m) speaker
+eergisteren adv day before yesterday
+heden noun, het today
+pap noun, de porridge
+wezenlijk adj substantial
+alsmaar adv ever
+giftig adj toxic
+hieruit adv from this
+boren verb to drill
+doorstaan verb to endure
+gelovig adj faithful
+kruid noun, het herb
+moraal noun, de moral
+oftewel conj i.e
+beslaan verb to cover
+jegens prep towards
+meekrijgen verb to get, to receive
+steil adj steep
+strook noun, de strip
+blijk noun, het token
+omgang noun, de(m) contact
+opdringen verb to impose
+shit noun, de(m) shit
+uitwerking noun, de(f) effect
+brein noun, het brain
+friet noun, de French fries, chips
+microfoon noun, de(m) microphone
+opvatten verb to take
+tegenaan adv against it, for it
+tegenovergesteld adj opposite
+lui adj lazy
+rolstoel noun, de(m) wheelchair
+verwarmen verb to warm, to heat
+abstract adj abstract
+ridder noun, de(m) knight
+toetsen verb to test
+vastzitten verb to get stuck
+afvallen verb a) to fall down b) to lose weight
+betrekkelijk adv relatively
+etiket noun, het label
+inzitten verb to sit in, to contain
+overlaten verb to leave
+permitteren verb to afford
+vanwaar adv from where, why
+weggooien verb to throw away
+brievenbus noun, de letterbox
+formulier noun, het form
+goed noun, het good
+kostuum noun, het suit
+onbelangrijk adj unimportant
+vlinder noun, de(m) butterfly
+zegen noun, de(m) blessing
+samenvatten verb to summarize
+daarbuiten adv outside
+standbeeld noun, het statue
+taalgebruik noun, het language usage
+duw noun, de(m) push
+oppikken verb to pick up
+prent noun, de print
+zagen verb to saw
+hoelang adv how long
+ijzer noun, het iron
+koorts noun, de fever
+poster noun, de(m) poster
+wolf noun, de(m) wolf
+worst noun, de sausage
+christen noun, de(m) Christian
+nota noun, de note, bill
+snoep noun, de(m) sweets
+zeilen verb to sail
+bezitting noun, de(f) possession
+onderkant noun, de(m) underside
+viool noun, de violin
+ontspanning noun, de(f) relaxation
+piek noun, de peak
+portemonnee noun, de(m) wallet
+slijten verb to wear (out)
+veronderstelling noun, de(f) hypothesis
+vers noun, het verse
+solliciteren verb to apply
+kathedraal noun, de cathedral
+saus noun, de sauce
+babbelen verb to chat
+knal noun, de(m) bang
+huiswerk noun, het homework
+deugen verb to be good
+drieduizend num three thousand
+kapper noun, de(m) hairdresser
+omslag 1) noun, de(m)/het 2) noun, de(m) 1) cover 2) change
+onvoorstelbaar adj unimaginable
+terzijde adv aside
+datgene pron what
+naar adj nasty
+oven noun, de(m) oven
+plassen verb to have a pee
+pardon noun, het pardon
+woordenboek noun, het dictionary
+tomaat noun, de tomato
+aansteken verb to light
+goddelijk adj divine
+nimmer adv never
+samenwonen verb to live together, to cohabit
+honderdduizend num hundred thousand
+map noun, de folder
+uzelf pron yourself
+achterop adv on the back
+uithangen verb to hang out
+verschieten verb to go pale
+vijfduizend num five thousand
+tandarts noun, de(m) dentist
+zoal adv what (kind of things)
+eer conj before
+kap noun, de hood
+onderwijzer noun, de(m) teacher
+kot noun, het student accommodation
+akelig adj nasty
+hol noun, het hole
+vermaken verb to entertain
+ontbijten verb to have breakfast
+überhaupt adv anyway at all
+telefoneren verb to phone
+stenen adj stone
